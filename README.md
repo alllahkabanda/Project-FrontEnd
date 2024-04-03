@@ -1,1 +1,1 @@
-This ismy FrontEnd project of WeatherNow
+This is my FrontEnd project of WeatherNow
